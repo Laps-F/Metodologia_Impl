@@ -1,0 +1,16 @@
+Cidade;Media A-Star;Media Dijkstra;Lim. Inferior;Lim. Superior;Diferenca estatistica;Local Inicial;Local Final;Distancia
+Lisboa;0.0004;0.0004;-0.0001;-0.0;Falso;Rato;Intendente;5.563
+Lisboa;0.0001;0.0004;0.0002;0.0004;Verdadeiro;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.0002;0.0004;0.0001;0.0002;Verdadeiro;Roma;Anjos;2.964
+Washington DC;0.0008;0.0005;-0.0004;-0.0002;Verdadeiro;Cleveland Park;Benning Road;46.23
+Washington DC;0.0001;0.0;-0.0;-0.0;Falso;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.0003;0.0005;0.0001;0.0003;Verdadeiro;Court House;Federal Triangle;6.01
+Sao Paulo;0.0005;0.0016;0.0008;0.0015;Verdadeiro;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.0002;0.0021;0.0012;0.0026;Verdadeiro;Santa Cecilia;Republica;0.88
+Sao Paulo;0.001;0.0017;0.0003;0.0012;Verdadeiro;Estacao Jardim Romano;Tamanduatei;34.85
+Paris;0.0065;0.0031;-0.0049;-0.0019;Verdadeiro;Pont de Sevres;Olympiades;19.809
+Paris;0.0001;0.0028;0.0022;0.0032;Verdadeiro;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.0015;0.0027;0.0006;0.0017;Verdadeiro;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Pequim;0.0049;0.0025;-0.0033;-0.0016;Verdadeiro;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.0001;0.0033;0.0023;0.0041;Verdadeiro;Xingong;Xihongmen;0.83
+Pequim;0.0053;0.0028;-0.0039;-0.001;Verdadeiro;Life Science Park;Yizhuang Culture Park;44.894

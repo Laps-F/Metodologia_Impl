@@ -1,0 +1,451 @@
+Cidade;A-Star;Dijkstra;Origem;Destino;Distancia
+Lisboa;0.0006;0.00077;Rato;Intendente;5.563
+Lisboa;0.0005;0.00033;Rato;Intendente;5.563
+Lisboa;0.0004;0.00028;Rato;Intendente;5.563
+Lisboa;0.00036;0.00035;Rato;Intendente;5.563
+Lisboa;0.00047;0.00037;Rato;Intendente;5.563
+Lisboa;0.00049;0.00046;Rato;Intendente;5.563
+Lisboa;0.00049;0.0004;Rato;Intendente;5.563
+Lisboa;0.00039;0.00031;Rato;Intendente;5.563
+Lisboa;0.00038;0.00036;Rato;Intendente;5.563
+Lisboa;0.00038;0.00033;Rato;Intendente;5.563
+Lisboa;0.00042;0.00031;Rato;Intendente;5.563
+Lisboa;0.00089;0.0007;Rato;Intendente;5.563
+Lisboa;0.00053;0.00048;Rato;Intendente;5.563
+Lisboa;0.0006;0.00054;Rato;Intendente;5.563
+Lisboa;0.0006;0.00037;Rato;Intendente;5.563
+Lisboa;0.00039;0.0004;Rato;Intendente;5.563
+Lisboa;0.00033;0.00028;Rato;Intendente;5.563
+Lisboa;0.00043;0.00027;Rato;Intendente;5.563
+Lisboa;0.00038;0.00032;Rato;Intendente;5.563
+Lisboa;0.00035;0.00035;Rato;Intendente;5.563
+Lisboa;0.00035;0.00028;Rato;Intendente;5.563
+Lisboa;0.00036;0.00029;Rato;Intendente;5.563
+Lisboa;0.00036;0.00031;Rato;Intendente;5.563
+Lisboa;0.00034;0.00028;Rato;Intendente;5.563
+Lisboa;0.00037;0.00024;Rato;Intendente;5.563
+Lisboa;0.00039;0.00031;Rato;Intendente;5.563
+Lisboa;0.00036;0.00032;Rato;Intendente;5.563
+Lisboa;0.00032;0.00031;Rato;Intendente;5.563
+Lisboa;0.00037;0.00048;Rato;Intendente;5.563
+Lisboa;0.0006;0.00045;Rato;Intendente;5.563
+Lisboa;0.00016;0.00095;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00012;0.00057;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00017;0.0006;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00012;0.00037;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00008;0.00031;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.0001;0.00026;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00009;0.00031;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00009;0.00032;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00008;0.00024;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00009;0.00032;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00007;0.00023;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00004;0.00021;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00004;0.00023;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00006;0.00028;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00007;0.00033;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00007;0.00028;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00011;0.00029;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00009;0.00077;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.0001;0.00085;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00009;0.00066;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00011;0.0006;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00008;0.00041;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00007;0.00026;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00006;0.00022;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00004;0.00023;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00004;0.00021;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00003;0.00027;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00008;0.00029;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00011;0.00039;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00009;0.00035;Alto dos Moinhos;Laranjeiras;0.805
+Lisboa;0.00018;0.00034;Roma;Anjos;2.964
+Lisboa;0.00028;0.00039;Roma;Anjos;2.964
+Lisboa;0.00026;0.00033;Roma;Anjos;2.964
+Lisboa;0.00016;0.00029;Roma;Anjos;2.964
+Lisboa;0.0002;0.00031;Roma;Anjos;2.964
+Lisboa;0.00019;0.00028;Roma;Anjos;2.964
+Lisboa;0.00021;0.00088;Roma;Anjos;2.964
+Lisboa;0.00028;0.00035;Roma;Anjos;2.964
+Lisboa;0.00042;0.00029;Roma;Anjos;2.964
+Lisboa;0.00032;0.00044;Roma;Anjos;2.964
+Lisboa;0.00019;0.00026;Roma;Anjos;2.964
+Lisboa;0.00015;0.00022;Roma;Anjos;2.964
+Lisboa;0.00014;0.00024;Roma;Anjos;2.964
+Lisboa;0.00019;0.00037;Roma;Anjos;2.964
+Lisboa;0.0002;0.00031;Roma;Anjos;2.964
+Lisboa;0.00025;0.00033;Roma;Anjos;2.964
+Lisboa;0.00018;0.00029;Roma;Anjos;2.964
+Lisboa;0.00017;0.00028;Roma;Anjos;2.964
+Lisboa;0.0002;0.00042;Roma;Anjos;2.964
+Lisboa;0.00043;0.00032;Roma;Anjos;2.964
+Lisboa;0.00027;0.00038;Roma;Anjos;2.964
+Lisboa;0.00018;0.00039;Roma;Anjos;2.964
+Lisboa;0.00019;0.00066;Roma;Anjos;2.964
+Lisboa;0.00022;0.0006;Roma;Anjos;2.964
+Lisboa;0.00025;0.00047;Roma;Anjos;2.964
+Lisboa;0.00041;0.00052;Roma;Anjos;2.964
+Lisboa;0.00071;0.00092;Roma;Anjos;2.964
+Lisboa;0.00021;0.00029;Roma;Anjos;2.964
+Lisboa;0.0002;0.0003;Roma;Anjos;2.964
+Lisboa;0.00021;0.00032;Roma;Anjos;2.964
+Washington DC;0.00067;0.00036;Cleveland Park;Benning Road;46.23
+Washington DC;0.00064;0.00044;Cleveland Park;Benning Road;46.23
+Washington DC;0.00067;0.0004;Cleveland Park;Benning Road;46.23
+Washington DC;0.00066;0.00038;Cleveland Park;Benning Road;46.23
+Washington DC;0.00136;0.00069;Cleveland Park;Benning Road;46.23
+Washington DC;0.00085;0.00085;Cleveland Park;Benning Road;46.23
+Washington DC;0.00104;0.00037;Cleveland Park;Benning Road;46.23
+Washington DC;0.00072;0.00029;Cleveland Park;Benning Road;46.23
+Washington DC;0.00064;0.00039;Cleveland Park;Benning Road;46.23
+Washington DC;0.00082;0.00046;Cleveland Park;Benning Road;46.23
+Washington DC;0.00079;0.00047;Cleveland Park;Benning Road;46.23
+Washington DC;0.00082;0.00046;Cleveland Park;Benning Road;46.23
+Washington DC;0.00077;0.00049;Cleveland Park;Benning Road;46.23
+Washington DC;0.00075;0.00038;Cleveland Park;Benning Road;46.23
+Washington DC;0.0005;0.00041;Cleveland Park;Benning Road;46.23
+Washington DC;0.00109;0.0006;Cleveland Park;Benning Road;46.23
+Washington DC;0.00088;0.00089;Cleveland Park;Benning Road;46.23
+Washington DC;0.00087;0.00048;Cleveland Park;Benning Road;46.23
+Washington DC;0.00066;0.00035;Cleveland Park;Benning Road;46.23
+Washington DC;0.00069;0.00044;Cleveland Park;Benning Road;46.23
+Washington DC;0.00081;0.00039;Cleveland Park;Benning Road;46.23
+Washington DC;0.00065;0.00038;Cleveland Park;Benning Road;46.23
+Washington DC;0.00071;0.00056;Cleveland Park;Benning Road;46.23
+Washington DC;0.00071;0.00081;Cleveland Park;Benning Road;46.23
+Washington DC;0.00088;0.00044;Cleveland Park;Benning Road;46.23
+Washington DC;0.00083;0.00059;Cleveland Park;Benning Road;46.23
+Washington DC;0.00074;0.00052;Cleveland Park;Benning Road;46.23
+Washington DC;0.00072;0.00051;Cleveland Park;Benning Road;46.23
+Washington DC;0.0008;0.00051;Cleveland Park;Benning Road;46.23
+Washington DC;0.00145;0.00055;Cleveland Park;Benning Road;46.23
+Washington DC;0.00018;0.00009;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00014;0.00028;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00008;0.00005;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00004;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00007;0.00006;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00009;0.00005;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00006;0.00005;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00004;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00006;0.00004;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00003;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00004;0.00004;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00005;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00004;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.0001;0.00004;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00004;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00006;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00004;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00004;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00004;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00005;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00004;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00004;0.00003;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00004;0.00002;Addison Road - Seat Pleasant;Morgan Boulevard;2.6
+Washington DC;0.00016;0.00028;Court House;Federal Triangle;6.01
+Washington DC;0.00019;0.00037;Court House;Federal Triangle;6.01
+Washington DC;0.00018;0.00036;Court House;Federal Triangle;6.01
+Washington DC;0.00111;0.00055;Court House;Federal Triangle;6.01
+Washington DC;0.00035;0.00054;Court House;Federal Triangle;6.01
+Washington DC;0.00023;0.00056;Court House;Federal Triangle;6.01
+Washington DC;0.00017;0.00029;Court House;Federal Triangle;6.01
+Washington DC;0.00021;0.0004;Court House;Federal Triangle;6.01
+Washington DC;0.00018;0.00035;Court House;Federal Triangle;6.01
+Washington DC;0.00023;0.00048;Court House;Federal Triangle;6.01
+Washington DC;0.00024;0.00044;Court House;Federal Triangle;6.01
+Washington DC;0.00024;0.00051;Court House;Federal Triangle;6.01
+Washington DC;0.00024;0.00047;Court House;Federal Triangle;6.01
+Washington DC;0.0002;0.00045;Court House;Federal Triangle;6.01
+Washington DC;0.00022;0.0005;Court House;Federal Triangle;6.01
+Washington DC;0.00036;0.0007;Court House;Federal Triangle;6.01
+Washington DC;0.00022;0.00088;Court House;Federal Triangle;6.01
+Washington DC;0.0002;0.00057;Court House;Federal Triangle;6.01
+Washington DC;0.00023;0.00056;Court House;Federal Triangle;6.01
+Washington DC;0.00024;0.00037;Court House;Federal Triangle;6.01
+Washington DC;0.00021;0.00042;Court House;Federal Triangle;6.01
+Washington DC;0.00018;0.00034;Court House;Federal Triangle;6.01
+Washington DC;0.00021;0.00038;Court House;Federal Triangle;6.01
+Washington DC;0.00023;0.00037;Court House;Federal Triangle;6.01
+Washington DC;0.00023;0.00039;Court House;Federal Triangle;6.01
+Washington DC;0.00016;0.00039;Court House;Federal Triangle;6.01
+Washington DC;0.00025;0.00049;Court House;Federal Triangle;6.01
+Washington DC;0.00017;0.00033;Court House;Federal Triangle;6.01
+Washington DC;0.00072;0.00066;Court House;Federal Triangle;6.01
+Washington DC;0.00105;0.00069;Court House;Federal Triangle;6.01
+Sao Paulo;0.00035;0.00116;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00045;0.00158;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00037;0.00102;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00037;0.0013;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.0004;0.00227;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00043;0.00124;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00066;0.00127;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00029;0.0009;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00024;0.00086;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.0003;0.00138;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00039;0.00117;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00175;0.00148;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00082;0.00185;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00033;0.00128;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00038;0.0012;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00038;0.00118;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00038;0.0012;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00136;0.00522;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00044;0.00095;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00039;0.00133;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00037;0.0012;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00041;0.00113;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00034;0.00344;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00147;0.00138;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.0004;0.0014;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00041;0.0012;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00034;0.00118;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.0004;0.00251;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00052;0.00486;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00036;0.00131;Estacao Sagrado Coracao;Cidade Universitaria;24.72
+Sao Paulo;0.00007;0.00117;Santa Cecilia;Republica;0.88
+Sao Paulo;0.0001;0.00134;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00011;0.00147;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00038;0.00506;Santa Cecilia;Republica;0.88
+Sao Paulo;0.0001;0.00141;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00009;0.0012;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.00122;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.00127;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00009;0.00134;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00163;0.00578;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.00118;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00009;0.00128;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.00138;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00007;0.00139;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00009;0.0012;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00009;0.00121;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00038;0.00379;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.01002;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00018;0.00123;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.00119;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00011;0.00126;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00009;0.00129;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00012;0.00097;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.00402;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00037;0.00385;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.00141;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00011;0.00111;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00009;0.00103;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00008;0.001;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00009;0.00119;Santa Cecilia;Republica;0.88
+Sao Paulo;0.00162;0.00247;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00242;0.00132;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00057;0.00089;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00059;0.0011;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00084;0.0016;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00254;0.00495;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00069;0.0013;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00061;0.00144;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00063;0.00234;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00556;0.00121;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00061;0.00118;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00059;0.00139;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00066;0.00124;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00093;0.00347;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00063;0.00139;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00073;0.00115;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00051;0.00116;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00066;0.00395;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00082;0.00131;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00065;0.0013;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.0005;0.00143;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00072;0.00156;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00065;0.00189;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00127;0.00213;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00077;0.00147;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00069;0.00104;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00057;0.00262;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00063;0.00133;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00082;0.0013;Estacao Jardim Romano;Tamanduatei;34.85
+Sao Paulo;0.00064;0.00134;Estacao Jardim Romano;Tamanduatei;34.85
+Paris;0.01196;0.00227;Pont de Sevres;Olympiades;19.809
+Paris;0.01265;0.00213;Pont de Sevres;Olympiades;19.809
+Paris;0.004;0.00665;Pont de Sevres;Olympiades;19.809
+Paris;0.00451;0.00206;Pont de Sevres;Olympiades;19.809
+Paris;0.01175;0.00197;Pont de Sevres;Olympiades;19.809
+Paris;0.00378;0.00671;Pont de Sevres;Olympiades;19.809
+Paris;0.00346;0.00209;Pont de Sevres;Olympiades;19.809
+Paris;0.01191;0.00189;Pont de Sevres;Olympiades;19.809
+Paris;0.00313;0.00633;Pont de Sevres;Olympiades;19.809
+Paris;0.00337;0.00196;Pont de Sevres;Olympiades;19.809
+Paris;0.01021;0.00199;Pont de Sevres;Olympiades;19.809
+Paris;0.00399;0.00214;Pont de Sevres;Olympiades;19.809
+Paris;0.00771;0.00181;Pont de Sevres;Olympiades;19.809
+Paris;0.00365;0.00373;Pont de Sevres;Olympiades;19.809
+Paris;0.00641;0.00219;Pont de Sevres;Olympiades;19.809
+Paris;0.00631;0.0059;Pont de Sevres;Olympiades;19.809
+Paris;0.004;0.0049;Pont de Sevres;Olympiades;19.809
+Paris;0.00669;0.00211;Pont de Sevres;Olympiades;19.809
+Paris;0.00657;0.00255;Pont de Sevres;Olympiades;19.809
+Paris;0.00421;0.00195;Pont de Sevres;Olympiades;19.809
+Paris;0.00994;0.00206;Pont de Sevres;Olympiades;19.809
+Paris;0.00428;0.0062;Pont de Sevres;Olympiades;19.809
+Paris;0.00392;0.00207;Pont de Sevres;Olympiades;19.809
+Paris;0.01118;0.00233;Pont de Sevres;Olympiades;19.809
+Paris;0.00447;0.00244;Pont de Sevres;Olympiades;19.809
+Paris;0.0122;0.00227;Pont de Sevres;Olympiades;19.809
+Paris;0.0035;0.00478;Pont de Sevres;Olympiades;19.809
+Paris;0.0039;0.0021;Pont de Sevres;Olympiades;19.809
+Paris;0.00414;0.00189;Pont de Sevres;Olympiades;19.809
+Paris;0.00665;0.00291;Pont de Sevres;Olympiades;19.809
+Paris;0.00017;0.00246;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00012;0.00223;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00008;0.00278;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00023;0.00622;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00009;0.00164;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00009;0.00224;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00014;0.00212;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00008;0.00565;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00013;0.00238;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00008;0.00187;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.0001;0.00189;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00007;0.00167;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00009;0.00455;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.0001;0.00326;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00013;0.00164;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00011;0.00229;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.0001;0.00174;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00011;0.00148;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00013;0.002;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.0001;0.00241;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00016;0.00443;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.0001;0.00275;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.0001;0.00208;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00011;0.00235;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00009;0.00518;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00009;0.0019;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.0001;0.00302;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00012;0.00286;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00013;0.00581;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00016;0.00167;Saint-Sebastien - Froissart;Chemin Vert;0.632
+Paris;0.00076;0.00207;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00136;0.00682;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00115;0.00246;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00133;0.00233;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.0049;0.00459;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00099;0.00209;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00086;0.00204;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00695;0.00252;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00082;0.00195;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00106;0.00455;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00165;0.00224;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00091;0.00193;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00082;0.00223;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00348;0.00258;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00095;0.002;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00093;0.00232;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00111;0.00417;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00138;0.00165;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00071;0.00182;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00075;0.00232;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00087;0.00263;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00113;0.00213;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00098;0.00517;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.002;0.00247;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00111;0.00217;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00121;0.00219;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00199;0.0029;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00116;0.00202;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00071;0.00151;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Paris;0.00083;0.00202;Boulogne - Pont de Saint-Cloud;Sevres - Babylone;7.605
+Pequim;0.00299;0.00166;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00585;0.00217;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00301;0.00159;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00287;0.00327;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00738;0.00255;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00466;0.00244;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00993;0.00187;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00522;0.00628;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00456;0.00268;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.009;0.00219;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00492;0.00381;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00464;0.00209;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.01111;0.0019;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00336;0.00213;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.0061;0.00246;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00377;0.00301;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.0051;0.00204;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00462;0.00212;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00393;0.002;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.0035;0.00179;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00318;0.00391;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00365;0.0018;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00344;0.00264;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00501;0.00182;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00308;0.00188;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00797;0.00184;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00306;0.0043;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00397;0.00189;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00352;0.00208;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.00389;0.00231;Jiaohuachang;Bei'anhe;50.052
+Pequim;0.0002;0.00277;Xingong;Xihongmen;0.83
+Pequim;0.00026;0.00237;Xingong;Xihongmen;0.83
+Pequim;0.00013;0.00206;Xingong;Xihongmen;0.83
+Pequim;0.0001;0.00189;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00227;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00195;Xingong;Xihongmen;0.83
+Pequim;0.00015;0.00598;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00219;Xingong;Xihongmen;0.83
+Pequim;0.00012;0.00212;Xingong;Xihongmen;0.83
+Pequim;0.00014;0.00226;Xingong;Xihongmen;0.83
+Pequim;0.00013;0.0089;Xingong;Xihongmen;0.83
+Pequim;0.00012;0.00235;Xingong;Xihongmen;0.83
+Pequim;0.00009;0.00191;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00212;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00888;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00179;Xingong;Xihongmen;0.83
+Pequim;0.00013;0.00207;Xingong;Xihongmen;0.83
+Pequim;0.0001;0.00832;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00199;Xingong;Xihongmen;0.83
+Pequim;0.00012;0.00212;Xingong;Xihongmen;0.83
+Pequim;0.00015;0.00191;Xingong;Xihongmen;0.83
+Pequim;0.0001;0.00882;Xingong;Xihongmen;0.83
+Pequim;0.00012;0.00209;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00227;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00199;Xingong;Xihongmen;0.83
+Pequim;0.00011;0.00191;Xingong;Xihongmen;0.83
+Pequim;0.00009;0.00166;Xingong;Xihongmen;0.83
+Pequim;0.0001;0.00858;Xingong;Xihongmen;0.83
+Pequim;0.00012;0.00197;Xingong;Xihongmen;0.83
+Pequim;0.00012;0.00184;Xingong;Xihongmen;0.83
+Pequim;0.00307;0.00825;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00282;0.00198;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.01122;0.00186;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00342;0.00798;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00328;0.00207;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00799;0.00222;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00295;0.00155;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00955;0.00165;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00259;0.00184;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00585;0.00203;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00332;0.00223;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00311;0.00191;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00342;0.00223;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.0064;0.00171;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00769;0.0033;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00387;0.0019;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00407;0.00173;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00498;0.00215;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00355;0.00179;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00663;0.00214;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00353;0.00169;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.0038;0.00408;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00346;0.00191;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00335;0.00223;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00305;0.00185;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00524;0.002;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.01581;0.00271;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00525;0.01247;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.00294;0.00144;Life Science Park;Yizhuang Culture Park;44.894
+Pequim;0.01202;0.00209;Life Science Park;Yizhuang Culture Park;44.894
